@@ -4,7 +4,7 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a post with executable code.\n\nx &lt;- 29"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -16,15 +16,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Data Séance",
+    "title": "",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 31, 2023\n\n\nBrad Hill\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 28, 2023\n\n\nBrad Hill\n\n\n\n\n\n\nNo matching items"
+    "text": "Code"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Wanna Talk About Number One, Oh My, Me My",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html#we-love-a-test-folks",
+    "href": "index.html#we-love-a-test-folks",
+    "title": "Data Séance",
+    "section": "",
+    "text": "And then later?"
+  },
+  {
+    "objectID": "index.html#all-posts",
+    "href": "index.html#all-posts",
+    "title": "Data Séance",
+    "section": "",
+    "text": "----"
+  },
+  {
+    "objectID": "posts/a_new_pope/index.html",
+    "href": "posts/a_new_pope/index.html",
+    "title": "A New Pope",
+    "section": "",
+    "text": "With additional words here in the body"
+  },
+  {
+    "objectID": "posts/a_new_pope/index.html#and-a-bigger-header",
+    "href": "posts/a_new_pope/index.html#and-a-bigger-header",
+    "title": "A New Pope",
+    "section": "And a bigger header",
+    "text": "And a bigger header"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#header-2",
+    "href": "posts/post-with-code/index.html#header-2",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\nx &lt;- 29"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#header-2-1",
+    "href": "posts/post-with-code/index.html#header-2-1",
+    "title": "Post With Code",
+    "section": "2 Header 2",
+    "text": "2 Header 2"
+  },
+  {
+    "objectID": "index.html#posts",
+    "href": "index.html#posts",
+    "title": "",
+    "section": "Posts",
+    "text": "Posts"
   }
 ]

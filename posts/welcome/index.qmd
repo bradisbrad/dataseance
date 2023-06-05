@@ -3,6 +3,7 @@ title: "Welcome To My Blog"
 author: "Brad Hill"
 date: "2023-05-28"
 categories: [news]
+title-block-banner: false
 ---
 
 This is the first post in a Quarto blog. Welcome!

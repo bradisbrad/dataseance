@@ -3,11 +3,19 @@ title: "Post With Code"
 author: "Brad Hill"
 date: "2023-05-31"
 categories: [news, code, analysis]
+toc: true
 image: "image.jpg"
+draft: false
 ---
+
+## Header 2
+
+### Header 3
 
 This is a post with executable code.
 
 ```{r}
-1 + 1
+x <- 29
 ```
+
+## 2 Header 2

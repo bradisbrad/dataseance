@@ -2,18 +2,23 @@ project:
   type: website
 
 website:
-  title: "dataseance"
+  title: "Data Séance"
   navbar:
+    left:
+      - text: About
+        href: about.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/bradisbrad
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jhill101/
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: [lux, theme.scss]
+      dark: [lux, dark_theme.scss]
+    code-tools: true
+    highlight-style: a11y
 
 editor: visual
 
